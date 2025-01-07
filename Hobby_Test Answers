@@ -84,4 +84,3 @@ Q38. When identifying right tools for kernel development you consider factors li
 -	Performance analysis: Whether the tools can help you analyze the performance.
 -	Programming language: Whether you have a basic understanding of programming language used to write the kernel.
 Q39. QEMU (Quick Emulator) is an open-source emulator and virtualizer that can run programs and operating systems for one machine on another.
-END
